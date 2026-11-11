@@ -26,7 +26,7 @@ A free, offline-first calendar and appointment PWA. No accounts, no paid APIs, n
 - Notes: general, day-attached or time-slot-attached (Alt+double-click a day or slot)
 - Reminders with travel time ("leave by"), conflict warnings, undo delete, delete one occurrence
 - Find free time, copy availability as text
-- Weather (Open-Meteo, optional): Menu → Enable weather. Location is rounded and kept on-device.
+- Weather (Open-Meteo, optional): Menu → Enable weather, or tap the 🌤 chip under the toolbar (falls back to entering your city if location is blocked). Location is rounded and kept on-device.
 
 ## Shortcuts
 `N` quick add · `M/W/D/A` views · `T` today · `←/→` navigate
