@@ -20,16 +20,16 @@ A free, offline-first calendar and appointment PWA. No accounts, no paid APIs, n
 - JSON and `.ics` import/export are in the menu.
 
 ## Features
-- Month, week, day and agenda views; mini-calendar; search; dark/light; print
+- Month, week, day and agenda views; mini-calendar; search; 6 colour themes (Menu) each with a matching dark mode; print
 - Repeats (every N days/weeks/months/years), all-day events, per-event colours, drag-and-drop, side-by-side overlaps
 - Quick add: `Dentist tomorrow 3pm for 45m`, `Standup every week 9:30am`, `note: buy milk`
 - Notes: general, day-attached or time-slot-attached (Alt+double-click a day or slot)
-- Reminders with travel time ("leave by"), conflict warnings, undo delete, delete one occurrence
+- Reminders with travel time ("leave by"), conflict warnings, undo delete, edit or delete one occurrence
 - Find free time, copy availability as text
-- Weather (Open-Meteo, optional): Menu → Enable weather, or tap the 🌤 chip under the toolbar (falls back to entering your city if location is blocked). Location is rounded and kept on-device.
+- Weather (Open-Meteo, optional): Menu → Enable weather, or tap the 🌤 chip under the toolbar (falls back to entering your city if location is blocked). Location is rounded and kept on-device. Each day's weather is recorded and kept after the day passes; future days are forecasts and update.
 
 ## Shortcuts
 `N` quick add · `M/W/D/A` views · `T` today · `←/→` navigate
 
 ## Known limits
-No server, so no booking links or multi-user sharing. Editing a repeating event edits the whole series.
+No server, so no booking links or multi-user sharing.
